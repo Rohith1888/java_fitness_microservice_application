@@ -4,12 +4,10 @@ spring:
 
   data:
     mongodb:
-      uri: mongodb://localhost:27017/springboot/fitness_activity
-      database: fitness_activity
-
-
-
+      uri: mongodb://localhost:27017/
 
 
 server:
   port: 8082
+
+
